@@ -2,10 +2,11 @@ body {
   margin: 0;
 }
 
-div {
-  background-color: #bee5d3;
-}
-
 h1 {
   margin-top: 0;
+  }
+
+.top-container {
+  background-color: #bee5d3;
+  padding: 20px;
   }
