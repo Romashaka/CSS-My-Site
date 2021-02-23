@@ -1,24 +1,27 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
 body {
   margin: 0;
   text-align: center;
 }
 
 h1 {
+  font-size: 6em;
   margin-top: 0;
   font-family: 'Dancing Script', cursive;
-  font-size: 48;
-
+  color: #024249;
 }
+
 p {
+  font-size: 2.5em;
   font-family: 'Lobster', cursive;
+  color: #024249;;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 .top-container {
-  background-color: #bee5d6;
+  background-color: #aee1e1;
   position: relative;
   padding-top: 100px;
 }
