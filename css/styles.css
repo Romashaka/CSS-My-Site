@@ -60,3 +60,21 @@ p {
 .bottom-container {
   color: #024249;
 }
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.work-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.game-img {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
