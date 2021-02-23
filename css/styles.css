@@ -1,12 +1,36 @@
 body {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
   margin-top: 0;
-  }
+
+}
 
 .top-container {
-  background-color: #bee5d3;
-  padding: 20px;
-  }
+  background-color: #bee5d6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.cloud {
+  position: absolute;
+  max-height: 35%;
+  top: 10px;
+  right: 10px;
+
+}
+
+.baloon {
+  max-height: 40%;
+  position: absolute;
+  left: 50px;
+}
+
+.mounty {
+  padding-top: 400px;
+  height: auto;
+  max-width: 100%;
+
+}
